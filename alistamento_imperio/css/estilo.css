@@ -1,0 +1,140 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #f2f2f2;
+	background: black url('img/fundoescuro.png') repeat-x scroll top ;
+
+}
+
+
+#container{
+	width: 85%;
+	margin: 0 auto;
+	min-width: 720px;
+	max-width: 1300px;
+	background: black;
+}
+
+#marca{
+
+	width: 100%;
+	height: 400px;
+	background: #000000 url(../img/imperio.webp)no-repeat center;
+	text-align: center;
+	line-height: 350px;
+}
+
+#conteudo{
+	
+	width: 75%;
+	float: right;
+}
+
+li:hover{
+	background: gray;
+}
+
+#conteudo-principal{
+	width: 63%;
+	float: left;
+	color: darkred;
+	background: black;
+	text-align: justify;
+}
+
+img.img-noticia{
+	width: 96%;
+	padding: 2%;
+	max-width: 600px;
+}
+
+
+
+#conteudo-secundario{
+	width: 34%;
+	float: right;
+	color: darkred;
+	background: black;
+	text-align: justify;
+
+}
+
+#conteudo-secundario h1,
+#conteudo-secundario h2,
+#conteudo-secundario h3,
+#conteudo-secundario p{
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+#navegacao{
+	
+	width: 23%;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: darkred;
+	background: black;
+}
+
+#navegacao ul{
+	list-style: none; /* tira o sublinhado*/
+}
+
+#navegacao li a{
+	text-decoration: none; /*tira o circulo de marcação */
+}
+
+#rodape{
+	clear: both;
+	background: #c4c4c4;
+	padding: 5px;
+	color: darkred;
+	background: black;
+	text-align: center;
+}
+
+/* proxima parte é referente a pagina formulario*/
+
+
+
+
+.dados{
+	float: right;
+	background-color: black;
+	color: red;
+}
+
+
+legend{
+	font-weight: bold;
+}
+
+label{
+	display: block;
+	cursor: pointer;
+
+}
+
+input {     /*input [type="text"]*/
+	width: 60em;
+
+}
+
+
+textarea {
+	width: 20em;
+	height: 10em;
+	
+}
+
+input.radio, input.checkbox, input.submit{
+	width: 2em;
+}
+
+.radio{
+	margin-right: 1em;
+
+}
+
+
+
