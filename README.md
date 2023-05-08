@@ -1,1 +1,73 @@
-# Site-alistamento-Imperio-Galactico
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>home</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<!-- Normalize css -->
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	
+	
+</head>
+
+<body>
+	<audio src="audio/audio.mp3" autoplay controls>
+		
+	</audio>
+	<div id="container">
+		<div id="marca"></div>
+		<div id="conteudo">
+			<div id="conteudo-principal">
+				<h2> <strong></strong><i><u>Marinha Imperial</u></i></strong></h2>
+				
+					<img class="img-noticia" src="img/starwars.webp" >
+				
+					<p>Serviço, Lealdade, Fidelidade. Esse é o lema que guia todas as relações da <strong><i><u>Marinha Imperial</u></i></strong>, mesmo que você não faça parte das nossas fileiras.<br><br>
+					    O objetivo da <strong><i><u>Marinha Imperial</u></i></strong> é ter o domínio total do espaço conhecido. entre suas funções estão: <br>
+
+					    <ul>Bloquio de portos <br></ul>
+					    <ul>Bombardeio de Planetas <br></ul>
+					    <ul>Vigília de rotas de navegação<br></ul>
+					    <ul>Transportes de outros ramos das forças armadas <b>Imperiais</b></p></ul>
+
+				<h2 > <strong> <i><u>Exército Imperial</i></u> </strong></h2>
+				<img class="img-noticia" src="img/exercitoimperial2.jpg">
+				<p>  O objetivo do <b><u><i>Exército Imperial</i></u></b> é obter a superioridade por terra <br><br>
+					O motivo por trás disso é simples: nos somos seres vivos. Não podemos sobreviver no vácuo:não somos mynocks. Pergunte a si mesmo: por que os pedaços vazios entre as estrelas têm valor estratégico? é somente porque as hiper-rotas levam a algum lugar - a um mundo habitável ou com recursos que possamos explorar. O <i><b><u>Exército Imperial</u></b></i> invade e ocupa esses mundos em nome do <b><i><u>Imperador</u></i></b> e os protege de ataques. <br><br>
+					A <b><i><u></u>Marinha Imperial</i></b>, que nos conduz até o campo de batalha, agradecemos pela carona. Recebam nossos cumprimentos. Masé quando o <b><i><u>Exército Imperial </u></i></b> desembarca que a guerra começa de verdade.
+
+
+				</p>
+
+				<h2 > <strong> <i><u>Orla Exterior</i></u> </strong></h2>
+				<p>  Os Territórios da Orla Exterior, também conhecidos como Orla Exterior ou Sistemas Exteriores, é uma região esparsamente populada da galáxia localizada fora da Orla Média e antes do Espaço Selvagem e das Regiões Desconhecidas. A maior região da galáxia, a Orla Exterior é o lar de diversos mundos e planetas primitivos.  </p>	
+
+				</div>
+			<div id="conteudo-secundario">
+				<h2> <strong><i><u>Venha para o Império</u></i></strong></h2>
+				<img class="img-noticia" src="img/fundo2.jpg" >
+				<p>"Eles querem que o Império desmorone da mesma forma que alguns esperavam que a República desmoronasse, só que desta vez nossos inimigos não estão se rebelando em protesto contra a representação no Senado, rotas comerciais ou impostos. Eles pretendem semear o caos, derrubar tudo. Eles não têm agenda – política, religiosa ou qualquer outra – além do desejo de acabar com a civilização como a conhecemos."</p>
+				</div>
+		</div>
+		<div id="navegacao">
+			<ul>
+				<li><a href="home.html">Notícias do Império</a></li>
+				<li><a href="alistamento.html">Alistamento</a></li>
+				<li><a href="procurados.html">Procurados</a></li>
+				<li><a href="imperador.html">Imperador</a></li>
+				
+			</ul>
+		</div>
+		<div id="rodape">
+			<p>
+				© Criado orgulhosamente por Vitor Anvers - General do Império Galactico
+			</p>
+		</div>
+	</div>
+
+
+
+</body>
+</html>
